@@ -1,5 +1,5 @@
 # set directory
-setwd("~/anaconda3/envs/lsr/chapter_7_programming")
+setwd("~/anaconda3/envs/lsr/chapter_8_programming")
 
 # just a few useful tidbits
 
@@ -31,3 +31,5 @@ pow <- function( x, y = 1) {
 
 pow(x=15) # leaves the default for y
 pow(15,10) # specifies x and y
+
+
